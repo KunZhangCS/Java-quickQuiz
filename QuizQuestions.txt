@@ -1,0 +1,9 @@
+QuestionID_#_Topic_Question_AnswerA_AnswerB_AnswerC_AnswerD_CorrectAnswer
+1_11_Software_OOP is an acronym for:_Orthogonal Oriented Programming_Object Orthogonal Programming_Object Oriented Programming_Orthogonal Output Programming_C
+2_12_Software_In Java, a String is a(n):_object_variable_int_method_A
+3_13_Software_With reference to the Java statement:  Answer = 5 + 3 * 2   Answer equals:_11_16_10_30_A
+4_41_History_The Java programming language was originally developed by:_James Gosling_John Napier_Herman Hollerith_Dennis Ritchie_A
+5_42_History_An abacus can be used to quickly perform:_Integration_Trigonometric calculations_Logarithmic calculations_Arithmetic calculations_D
+6_43_History_Wilhelm Schickard and Blaise Pascal created:_Integrated Circuits_Transistors_IBM compatible computers_Mechanical calculators_D
+7_71_Networking_TCP/IP is an acronym for:_Transmission Control Protocol/Internet Programming_Transmission Control Protocol/Internet Protocol_Transmission Centred Protocol/Internet Protocol_Transmission Centric Protocol/Internet Protocol_B
+8_72_Networking_Slots on a motherboard that allow external devices to be connected are called:_IP Addresses_RAM_CPUs_Ports_D
